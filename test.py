@@ -1,4 +1,4 @@
 
 
 print("hello ")
-print("i am having a good time")
+print("i am having a good")
